@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+}
+
+h1{
+    color: brown;
+    background-color: antiquewhite;
+}
+li{
+    text-align: justify;
+    background-color: aquamarine;
+}
+a{
+    font-size: 50px;
+}
+.photo-description {
+    font-size: 20px;
+    color: yellow;
+    background-color: darkmagenta;
+}
